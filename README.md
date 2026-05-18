@@ -1,2 +1,3 @@
 # NYCU_deep_learning_114_spring
 114學期 深度學習作業與期末Project
+Final_Project 內為嘗試過的所有架構和組合 最佳的結果是使用clip
